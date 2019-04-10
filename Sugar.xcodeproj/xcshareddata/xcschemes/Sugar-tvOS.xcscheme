@@ -14,9 +14,23 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D56DAA771C206516003E7253"
+               BlueprintIdentifier = "BD7B93921D2BD93800BECFB1"
                BuildableName = "Sugar.framework"
-               BlueprintName = "Sugar-iOS"
+               BlueprintName = "Sugar-tvOS"
+               ReferencedContainer = "container:Sugar.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "BD9FDD4E1D2BDB1C0085F584"
+               BuildableName = "Tests-tvOS.xctest"
+               BlueprintName = "Tests-tvOS"
                ReferencedContainer = "container:Sugar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -33,9 +47,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D56DAA811C206516003E7253"
-               BuildableName = "Tests-iOS.xctest"
-               BlueprintName = "Tests-iOS"
+               BlueprintIdentifier = "BD9FDD4E1D2BDB1C0085F584"
+               BuildableName = "Tests-tvOS.xctest"
+               BlueprintName = "Tests-tvOS"
                ReferencedContainer = "container:Sugar.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -43,9 +57,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D56DAA771C206516003E7253"
+            BlueprintIdentifier = "BD7B93921D2BD93800BECFB1"
             BuildableName = "Sugar.framework"
-            BlueprintName = "Sugar-iOS"
+            BlueprintName = "Sugar-tvOS"
             ReferencedContainer = "container:Sugar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -66,9 +80,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D56DAA771C206516003E7253"
+            BlueprintIdentifier = "BD7B93921D2BD93800BECFB1"
             BuildableName = "Sugar.framework"
-            BlueprintName = "Sugar-iOS"
+            BlueprintName = "Sugar-tvOS"
             ReferencedContainer = "container:Sugar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -84,9 +98,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D56DAA771C206516003E7253"
+            BlueprintIdentifier = "BD7B93921D2BD93800BECFB1"
             BuildableName = "Sugar.framework"
-            BlueprintName = "Sugar-iOS"
+            BlueprintName = "Sugar-tvOS"
             ReferencedContainer = "container:Sugar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
